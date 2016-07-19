@@ -1,0 +1,5 @@
+This jar is repackaged from sqljdbc4.jar from the Driver package for v6.0.7507.100, included for SQL Server 2005 compatibility.
+
+The jar has been repackaged with a new MANIFEST.MF, and the RSA/SF signature files removed.
+
+
